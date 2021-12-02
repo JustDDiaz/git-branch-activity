@@ -1,4 +1,5 @@
 - star wars
-- updgrade
+- upgrade 2018
+- hereditary
 - spider man no way home
 - Country Strong
